@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9483ff&height=120&section=header" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9483ff&height=120&section=header" alt="Banner roxo ondulado" />
 
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?color=9483ff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Vinicius+Bruno!;I'm+20+years+old!;I'm+from+Brazil,+SP!;I'm+learning+programming!;Welcome+to+my+GitHub+profile!"
-      alt="Typing SVG"
+      src="https://readme-typing-svg.herokuapp.com?color=9483ff&size=35&center=true&vCenter=true&width=1000&lines=Ola,+eu+sou+Vinicius+Bruno!;Tenho+20+anos!;Sou+de+Sao+Paulo,+Brasil!;Estou+aprendendo+programacao!;Bem-vindo+ao+meu+GitHub!"
+      alt="Texto animado de apresentacao"
     />
   </a>
 </div>
@@ -26,16 +26,16 @@
 <br />
 
 <div align="center">
-  <h2>About me</h2>
+  <h2>Sobre mim</h2>
 </div>
 
 <p align="center">
-  I'm a programming student from Sao Paulo, Brazil, currently building my foundation in software development.
-  I enjoy learning through practice, creating small projects, improving my logic, and exploring different technologies.
+  Sou estudante de programação de São Paulo, Brasil, construindo minha base em desenvolvimento de software.
+  Gosto de aprender na prática, criar pequenos projetos, melhorar minha lógica e explorar novas tecnologias.
 </p>
 
 <div align="center">
-  <h2>Tech stack</h2>
+  <h2>Tecnologias</h2>
 </div>
 
 <div align="center">
@@ -53,27 +53,41 @@
 <br />
 
 <div align="center">
-  <h2>GitHub stats</h2>
+  <h2>Estudando atualmente</h2>
+</div>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Brunoo&show_icons=true&theme=tokyonight&hide_border=true&title_color=9483ff&icon_color=9483ff&text_color=ffffff&bg_color=0d1117" alt="Vinicius Bruno GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Brunoo&layout=compact&theme=tokyonight&hide_border=true&title_color=9483ff&text_color=ffffff&bg_color=0d1117" alt="Top languages" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-9483ff?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-9483ff?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-9483ff?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Banco_de_Dados-9483ff?style=for-the-badge&logo=postgresql&logoColor=white" alt="Banco de Dados" />
 </div>
 
 <br />
 
 <div align="center">
-  <h2>Contribution snake</h2>
+  <h2>Projetos e evolução</h2>
+</div>
 
-  <!-- This image appears after the Generate Snake workflow creates the output branch. -->
+<p align="center">
+  Estou usando este espaço para registrar minha evolução, praticar programação e compartilhar projetos criados durante meus estudos.
+</p>
+
+<br />
+
+<div align="center">
+  <h2>Cobrinha de contribuições</h2>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinicius-Brunoo/Vinicius-Brunoo/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinicius-Brunoo/Vinicius-Brunoo/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Vinicius-Brunoo/Vinicius-Brunoo/output/github-contribution-grid-snake.svg" />
+    <img alt="Cobrinha comendo as contribuicoes do GitHub" src="https://raw.githubusercontent.com/Vinicius-Brunoo/Vinicius-Brunoo/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 <br />
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9483ff&height=120&section=footer" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9483ff&height=120&section=footer" alt="Rodape roxo ondulado" />
 </div>
+
