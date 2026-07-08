@@ -87,6 +87,33 @@
 <br />
 
 <div align="center">
+  <h2>Estatísticas do GitHub</h2>
+
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinicius-Brunoo&theme=github_dark"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinicius-Brunoo&theme=github_dark"
+    alt="Linguagens mais usadas por repositório"
+  />
+
+  <br />
+  <br />
+
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=Vinicius-Brunoo&theme=dark&hide_border=false&border_radius=6&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0D1117&border=FFFFFF&stroke=9483FF&ring=FF8A00&fire=FF8A00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8A00&sideLabels=FFFFFF&dates=C9D1D9"
+      alt="Estatísticas de sequência do GitHub"
+    />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
   <h2>Cobrinha de contribuições</h2>
 
   <picture>
