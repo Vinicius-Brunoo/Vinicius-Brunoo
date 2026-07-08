@@ -30,8 +30,8 @@
 </div>
 
 <p align="center">
-  Sou estudante de programação de São Paulo, Brasil, construindo minha base em desenvolvimento de software.
-  Gosto de aprender na prática, criar pequenos projetos, melhorar minha lógica e explorar novas tecnologias.
+  Sou estudante de programação de São Paulo, Brasil, e atuo há 1 ano como estagiário Full Stack.
+  Gosto de aprender na prática, criar projetos, melhorar minha lógica e explorar tecnologias para desenvolver soluções completas.
 </p>
 
 <div align="center">
@@ -71,6 +71,7 @@
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </div>
 
