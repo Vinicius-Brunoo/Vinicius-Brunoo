@@ -55,16 +55,8 @@
 <div align="center">
   <h2>GitHub stats</h2>
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Vinicius-Brunoo&show_icons=true&theme=tokyonight&hide_border=true&title_color=9483ff&icon_color=9483ff"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Brunoo&layout=compact&theme=tokyonight&hide_border=true&title_color=9483ff"
-    alt="Top Languages"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Brunoo&show_icons=true&theme=tokyonight&hide_border=true&title_color=9483ff&icon_color=9483ff&text_color=ffffff&bg_color=0d1117" alt="Vinicius Bruno GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Brunoo&layout=compact&theme=tokyonight&hide_border=true&title_color=9483ff&text_color=ffffff&bg_color=0d1117" alt="Top languages" />
 </div>
 
 <br />
@@ -72,6 +64,7 @@
 <div align="center">
   <h2>Contribution snake</h2>
 
+  <!-- This image appears after the Generate Snake workflow creates the output branch. -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinicius-Brunoo/Vinicius-Brunoo/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinicius-Brunoo/Vinicius-Brunoo/output/github-contribution-grid-snake.svg" />
@@ -84,4 +77,3 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9483ff&height=120&section=footer" alt="Footer" />
 </div>
-
